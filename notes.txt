@@ -1,3 +1,4 @@
- Version control helps track changes.
+ Version control Systems are essential for tracking code changes.
  Git is a local tool.
  GitHub is for hosting repositories.
+ Commands like 'git diff' help us inspect changes before staging them.
