@@ -1,0 +1,3 @@
+ Version control helps track changes.
+ Git is a local tool.
+ GitHub is for hosting repositories.
